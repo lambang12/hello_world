@@ -1,2 +1,3 @@
 # hello_world
-Just lerning repository
+Hanya belajar repositori
+Hai, saya_a_personal_user_and_Im_newbie_in_in_the_world_of_coding
